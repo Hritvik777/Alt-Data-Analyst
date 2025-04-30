@@ -1,11 +1,8 @@
 Dataset
   1.Payments
   2.Customer_Orders
-  Join Both table base On order_Id
-  make view as Sales
-  1. Order and Sales Analysis
-
-SQL
+Join Both table base On order_Id make view as Sales
+ 
 
 -- 1. Order and Sales Analysis
 
